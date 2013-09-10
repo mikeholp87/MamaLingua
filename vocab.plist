@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>categories</key>
+	<array>
+		<string>Eating and Drinking</string>
+		<string>Eating and Drinking</string>
+		<string>Eating and Drinking</string>
+		<string>Feelings and Emotions</string>
+		<string>Feelings and Emotions</string>
+		<string>Feelings and Emotions</string>
+	</array>
+	<key>english_phonetics</key>
+	<array>
+		<string>jun-gri</string>
+		<string>fud</string>
+		<string>tu it</string>
+		<string>ja-pi</string>
+		<string>fu-ni</string>
+		<string>laf</string>
+	</array>
+	<key>english_words</key>
+	<array>
+		<string>hungry</string>
+		<string>food</string>
+		<string>to eat</string>
+		<string>happy</string>
+		<string>funny</string>
+		<string>laugh</string>
+	</array>
+	<key>genres</key>
+	<integer>6</integer>
+	<key>languages</key>
+	<array>
+		<string>Spanish</string>
+		<string>Spanish</string>
+		<string>Spanish</string>
+		<string>Spanish</string>
+		<string>Spanish</string>
+		<string>Spanish</string>
+	</array>
+	<key>spanish_phonetics</key>
+	<array>
+		<string>AHM-bray</string>
+		<string>la ko-MEE-da</string>
+		<string>ko-MAIR</string>
+		<string>fe-LEES</string>
+		<string>cheesTO-so</string>
+		<string>re-IR</string>
+	</array>
+	<key>spanish_words</key>
+	<array>
+		<string>hambre</string>
+		<string>la comida</string>
+		<string>comer</string>
+		<string>feliz</string>
+		<string>chistoso</string>
+		<string>reír</string>
+	</array>
+</dict>
+</plist>

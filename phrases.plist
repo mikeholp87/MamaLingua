@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>categories</key>
+	<array>
+		<string>Eating and Drinking</string>
+		<string>Eating and Drinking</string>
+		<string>Eating and Drinking</string>
+		<string>Feelings and Emotions</string>
+		<string>Feelings and Emotions</string>
+		<string>Feelings and Emotions</string>
+		<string>Greetings and Everyday Phrases</string>
+		<string>Greetings and Everyday Phrases</string>
+		<string>Greetings and Everyday Phrases</string>
+		<string>Greetings and Everyday Phrases</string>
+		<string>Greetings and Everyday Phrases</string>
+		<string>Greetings and Everyday Phrases</string>
+	</array>
+	<key>english_phonetics</key>
+	<array>
+		<string>du ju want mor</string>
+		<string>plis s?t daun</string>
+		<string>?r ju jun-gri </string>
+		<string>wats de ma-ter</string>
+		<string>dont krai</string>
+		<string>ar ju o-key</string>
+		<string>wats de ma-ter</string>
+		<string>wat ar ju du-in</string>
+		<string>jaw ar ju</string>
+		<string>gud af-ter-nun</string>
+		<string>gud nait</string>
+		<string>sori</string>
+	</array>
+	<key>english_words</key>
+	<array>
+		<string>Do you want more?</string>
+		<string>Please sit down.</string>
+		<string>Are you hungry?</string>
+		<string>What's the matter?</string>
+		<string>Don't cry.</string>
+		<string>Are you okay?</string>
+		<string>What's the matter?</string>
+		<string>What are you doing?</string>
+		<string>How are you? </string>
+		<string>Good afternoon.</string>
+		<string>Good night.</string>
+		<string>Sorry.</string>
+	</array>
+	<key>genres</key>
+	<integer>12</integer>
+	<key>languages</key>
+	<array>
+		<string>Spanish</string>
+		<string>Spanish</string>
+		<string>Spanish</string>
+		<string>Spanish</string>
+		<string>Spanish</string>
+		<string>Spanish</string>
+		<string>Spanish</string>
+		<string>Spanish</string>
+		<string>Spanish</string>
+		<string>Spanish</string>
+		<string>Spanish</string>
+		<string>Spanish</string>
+	</array>
+	<key>spanish_phonetics</key>
+	<array>
+		<string>KYE-res mahs</string>
+		<string>SYEN-tah-te por fa-VOR</string>
+		<string>TYE-nes AHM-bray</string>
+		<string>Kay tay PA-sa</string>
+		<string>No YO-rays</string>
+		<string>Ess-TAS byen</string>
+		<string>Kay tay PA-sa</string>
+		<string>Kay A-says</string>
+		<string>KO-mo ess-TAS</string>
+		<string>BWE-nahs TAHR-days</string>
+		<string>BWE-nahs NO-chay</string>
+		<string>Pair-DOHN</string>
+	</array>
+	<key>spanish_words</key>
+	<array>
+		<string>¿Quieres mas?</string>
+		<string>Siéntate, por favor.</string>
+		<string>¿Tienes hambre?</string>
+		<string>¿Que te pasa?</string>
+		<string>No llores.</string>
+		<string>¿Estas bien?</string>
+		<string>¿Que te pasa?</string>
+		<string>¿Que haces?</string>
+		<string>¿Como estas?</string>
+		<string>Buenas tardes.</string>
+		<string>Buenas noches.</string>
+		<string>Perdón.</string>
+	</array>
+</dict>
+</plist>
